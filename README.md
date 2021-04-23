@@ -1,5 +1,5 @@
 # Corne-Foam
-DXF Files for Corne Foam 
+DXF Files for Corne V3 Foam 
 
 Recommended Heights. 
 Plate Foam: 3mm 
